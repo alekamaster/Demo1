@@ -1,0 +1,70 @@
+
+
+
+/* Header and Nav */
+header {
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: gold;
+  padding: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  font-family: monospace;
+  
+}
+
+
+/* Sections */
+.white {
+  background-color: white;
+  color: black;
+  padding: 30px;
+  font-style: italic;
+}
+
+.gray {
+  background-color: gray;
+  color: white;
+  padding: 30px;
+
+  font-style: italic;
+
+/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui id aliquid, iure delectus obcaecati aut quam vitae, vero nesciunt nobis deleniti error illo quas inventore ex magnam! Nesciunt exercitationem voluptas quisquam nostrum natus sint doloribus sequi nihil nulla officiis! Assumenda nesciunt magnam cum quia illo repellendus dolorum explicabo iste animi voluptate? Sed, eaque adipisci error consequuntur atque sunt possimus reiciendis qui quidem ullam saepe dicta totam nobis. Veritatis soluta iste doloremque eius molestias harum quo similique voluptatum perferendis laboriosam reprehenderit, facere, labore quam amet, tempora eaque ducimus suscipit? Fuga vel odit dolorum odio itaque maxime repudiandae dolor repellat, nostrum optio necessitatibus. Dolorum alias quas repellendus animi eveniet dolores aut numquam voluptates harum corporis perspiciatis sequi qui magni ducimus praesentium dolorem, nihil voluptatibus sapiente? Soluta incidunt error alias nisi accusantium enim quos deserunt voluptate. Incidunt error eos rem vitae nemo quas perferendis eius inventore, explicabo nobis maiores. Optio nulla tempore, magni rem quas et sapiente animi tenetur perferendis, placeat asperiores, repellat aspernatur repudiandae mollitia perspiciatis obcaecati qui quibusdam in odio architecto molestias nam neque pariatur nobis? Tempore esse voluptatibus ipsam eligendi quo nesciunt, hic, molestias adipisci sequi amet, laudantium necessitatibus obcaecati. Error tempora nostrum qui minima quia rerum enim veniam voluptates.</p>
+.black { */
+  background-color: black;
+  color: white;
+  padding: 30px;
+  font-style: italic;
+}
+
+.green {
+  background-color: green;
+  color: white;
+  padding: 30px;
+  font-style: italic;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+  padding: 30px;
+  font-style: italic;
+}
+
+/* Footer */
+footer {
+  background-color: #222;
+  color: white;
+  padding: 10px;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+/* I did know what else can i add... it looks alrigth for me */
